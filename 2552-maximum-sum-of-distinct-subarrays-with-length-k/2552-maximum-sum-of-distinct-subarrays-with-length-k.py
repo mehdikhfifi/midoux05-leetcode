@@ -2,34 +2,33 @@ from typing import List
 
 class Solution:
     def maximumSubarraySum(self, nums: List[int], k: int) -> int:
-        if len(nums) < k:
-            return 0
 
-        # Sliding window setup
-        current_sum = sum(nums[:k])
-        element_count = {}
-        for i in range(k):
-            element_count[nums[i]] = element_count.get(nums[i], 0) + 1
 
-        maximum = 0
-        # Check if the first window is valid
-        if len(element_count) == k:
-            maximum = max(maximum, current_sum)
+        n = len(nums)
 
-        # Sliding window logic
-        for i in range(k, len(nums)):
-            # Add the new element
-            current_sum += nums[i]
-            element_count[nums[i]] = element_count.get(nums[i], 0) + 1
+        mp = defaultdict(int)
 
-            # Remove the old element
-            current_sum -= nums[i - k]
-            element_count[nums[i - k]] -= 1
-            if element_count[nums[i - k]] == 0:
-                del element_count[nums[i - k]]
+        ws = 0
 
-            # Check if the current window is valid
-            if len(element_count) == k:
-                maximum = max(maximum, current_sum)
+        max_sum = 0
 
-        return maximum
+
+
+        for i in range(n):
+
+
+            mp[nums[i]] +=1
+
+            ws+= nums[i]
+
+            if i >= k:
+                le = nums[i-k]
+                mp[le] -=1
+                ws -=le
+                if mp[le]== 0:
+                    del mp[le]
+            
+            if i >= k-1 and len(mp) ==k:
+                max_sum = max(max_sum, ws)
+
+        return max_sum
