@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/mehdikhfifi/cpp/tree/master/0001-two-sum) |
 | [1755-defuse-the-bomb](https://github.com/mehdikhfifi/cpp/tree/master/1755-defuse-the-bomb) |
+| [1972-rotating-the-box](https://github.com/mehdikhfifi/cpp/tree/master/1972-rotating-the-box) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mehdikhfifi/cpp/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
 |  |
@@ -41,4 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/mehdikhfifi/cpp/tree/master/0062-unique-paths) |
+## Two Pointers
+|  |
+| ------- |
+| [1972-rotating-the-box](https://github.com/mehdikhfifi/cpp/tree/master/1972-rotating-the-box) |
+## Matrix
+|  |
+| ------- |
+| [1972-rotating-the-box](https://github.com/mehdikhfifi/cpp/tree/master/1972-rotating-the-box) |
 <!---LeetCode Topics End-->
