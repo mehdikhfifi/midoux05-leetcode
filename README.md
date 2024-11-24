@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mehdikhfifi/cpp/tree/master/0001-two-sum) |
+| [0322-coin-change](https://github.com/mehdikhfifi/cpp/tree/master/0322-coin-change) |
 | [1755-defuse-the-bomb](https://github.com/mehdikhfifi/cpp/tree/master/1755-defuse-the-bomb) |
 | [1972-rotating-the-box](https://github.com/mehdikhfifi/cpp/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/mehdikhfifi/cpp/tree/master/2089-maximum-matrix-sum) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/mehdikhfifi/cpp/tree/master/0062-unique-paths) |
+| [0322-coin-change](https://github.com/mehdikhfifi/cpp/tree/master/0322-coin-change) |
 ## Combinatorics
 |  |
 | ------- |
@@ -56,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2089-maximum-matrix-sum](https://github.com/mehdikhfifi/cpp/tree/master/2089-maximum-matrix-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/mehdikhfifi/cpp/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
