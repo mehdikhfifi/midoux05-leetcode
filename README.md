@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/mehdikhfifi/cpp/tree/master/0001-two-sum) |
 | [1755-defuse-the-bomb](https://github.com/mehdikhfifi/cpp/tree/master/1755-defuse-the-bomb) |
 | [1972-rotating-the-box](https://github.com/mehdikhfifi/cpp/tree/master/1972-rotating-the-box) |
+| [2089-maximum-matrix-sum](https://github.com/mehdikhfifi/cpp/tree/master/2089-maximum-matrix-sum) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mehdikhfifi/cpp/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
 |  |
@@ -50,4 +51,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1972-rotating-the-box](https://github.com/mehdikhfifi/cpp/tree/master/1972-rotating-the-box) |
+| [2089-maximum-matrix-sum](https://github.com/mehdikhfifi/cpp/tree/master/2089-maximum-matrix-sum) |
+## Greedy
+|  |
+| ------- |
+| [2089-maximum-matrix-sum](https://github.com/mehdikhfifi/cpp/tree/master/2089-maximum-matrix-sum) |
 <!---LeetCode Topics End-->
