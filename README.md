@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/mehdikhfifi/cpp/tree/master/0803-cheapest-flights-within-k-stops) |
+| [3189-find-champion-ii](https://github.com/mehdikhfifi/cpp/tree/master/3189-find-champion-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
