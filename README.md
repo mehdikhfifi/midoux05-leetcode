@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1972-rotating-the-box](https://github.com/mehdikhfifi/cpp/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/mehdikhfifi/cpp/tree/master/2089-maximum-matrix-sum) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mehdikhfifi/cpp/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/mehdikhfifi/cpp/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/mehdikhfifi/cpp/tree/master/0547-number-of-provinces) |
 | [0787-sliding-puzzle](https://github.com/mehdikhfifi/cpp/tree/master/0787-sliding-puzzle) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/mehdikhfifi/cpp/tree/master/0803-cheapest-flights-within-k-stops) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/mehdikhfifi/cpp/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/mehdikhfifi/cpp/tree/master/0547-number-of-provinces) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/mehdikhfifi/cpp/tree/master/0803-cheapest-flights-within-k-stops) |
 | [3189-find-champion-ii](https://github.com/mehdikhfifi/cpp/tree/master/3189-find-champion-ii) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/mehdikhfifi/cpp/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
