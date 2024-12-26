@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/mehdikhfifi/cpp/tree/master/0062-unique-paths) |
+| [0095-unique-binary-search-trees-ii](https://github.com/mehdikhfifi/cpp/tree/master/0095-unique-binary-search-trees-ii) |
 | [0198-house-robber](https://github.com/mehdikhfifi/cpp/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/mehdikhfifi/cpp/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/mehdikhfifi/cpp/tree/master/0322-coin-change) |
@@ -154,4 +155,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1468-check-if-n-and-its-double-exist](https://github.com/mehdikhfifi/cpp/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/mehdikhfifi/cpp/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+## Backtracking
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/mehdikhfifi/cpp/tree/master/0095-unique-binary-search-trees-ii) |
+## Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/mehdikhfifi/cpp/tree/master/0095-unique-binary-search-trees-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/mehdikhfifi/cpp/tree/master/0095-unique-binary-search-trees-ii) |
+## Binary Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/mehdikhfifi/cpp/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->
