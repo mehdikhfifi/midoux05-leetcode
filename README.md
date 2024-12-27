@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/mehdikhfifi/cpp/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/mehdikhfifi/cpp/tree/master/0062-unique-paths) |
+| [0263-ugly-number](https://github.com/mehdikhfifi/cpp/tree/master/0263-ugly-number) |
 ## Recursion
 |  |
 | ------- |
