@@ -13,7 +13,7 @@ class Solution:
 
 
 
-            j = 0
+            j = i
 
 
             while j < n and days[j] <= days[i] + 6:
@@ -21,7 +21,7 @@ class Solution:
             cost7 = costs[1] + (dp[j] if j < n else 0)
 
 
-            k = 0
+            k = j
 
             while k < n and days[k] <= days[i] + 29:
                 k+=1
