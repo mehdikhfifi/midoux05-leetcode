@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/mehdikhfifi/cpp/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/mehdikhfifi/cpp/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1025-minimum-cost-for-tickets](https://github.com/mehdikhfifi/cpp/tree/master/1025-minimum-cost-for-tickets) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/mehdikhfifi/cpp/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 ## Combinatorics
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/mehdikhfifi/cpp/tree/master/0547-number-of-provinces) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/mehdikhfifi/cpp/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/mehdikhfifi/cpp/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [2201-valid-arrangement-of-pairs](https://github.com/mehdikhfifi/cpp/tree/master/2201-valid-arrangement-of-pairs) |
 ## Graph
 |  |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/mehdikhfifi/cpp/tree/master/0095-unique-binary-search-trees-ii) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/mehdikhfifi/cpp/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/mehdikhfifi/cpp/tree/master/0095-unique-binary-search-trees-ii) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/mehdikhfifi/cpp/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 ## Bitmask
 |  |
 | ------- |
