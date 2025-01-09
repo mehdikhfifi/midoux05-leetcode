@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/mehdikhfifi/cpp/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0787-sliding-puzzle](https://github.com/mehdikhfifi/cpp/tree/master/0787-sliding-puzzle) |
 | [0948-sort-an-array](https://github.com/mehdikhfifi/cpp/tree/master/0948-sort-an-array) |
+| [1025-minimum-cost-for-tickets](https://github.com/mehdikhfifi/cpp/tree/master/1025-minimum-cost-for-tickets) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/mehdikhfifi/cpp/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1755-defuse-the-bomb](https://github.com/mehdikhfifi/cpp/tree/master/1755-defuse-the-bomb) |
 | [1972-rotating-the-box](https://github.com/mehdikhfifi/cpp/tree/master/1972-rotating-the-box) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0473-matchsticks-to-square](https://github.com/mehdikhfifi/cpp/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/mehdikhfifi/cpp/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/mehdikhfifi/cpp/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1025-minimum-cost-for-tickets](https://github.com/mehdikhfifi/cpp/tree/master/1025-minimum-cost-for-tickets) |
 ## Combinatorics
 |  |
 | ------- |
