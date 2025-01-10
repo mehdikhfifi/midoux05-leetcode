@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/mehdikhfifi/cpp/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/mehdikhfifi/cpp/tree/master/0004-median-of-two-sorted-arrays) |
+| [0079-word-search](https://github.com/mehdikhfifi/cpp/tree/master/0079-word-search) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mehdikhfifi/cpp/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/mehdikhfifi/cpp/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0136-single-number](https://github.com/mehdikhfifi/cpp/tree/master/0136-single-number) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/mehdikhfifi/cpp/tree/master/0079-word-search) |
 | [0787-sliding-puzzle](https://github.com/mehdikhfifi/cpp/tree/master/0787-sliding-puzzle) |
 | [1972-rotating-the-box](https://github.com/mehdikhfifi/cpp/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/mehdikhfifi/cpp/tree/master/2089-maximum-matrix-sum) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/mehdikhfifi/cpp/tree/master/0079-word-search) |
 | [0110-balanced-binary-tree](https://github.com/mehdikhfifi/cpp/tree/master/0110-balanced-binary-tree) |
 | [0547-number-of-provinces](https://github.com/mehdikhfifi/cpp/tree/master/0547-number-of-provinces) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/mehdikhfifi/cpp/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/mehdikhfifi/cpp/tree/master/0079-word-search) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/mehdikhfifi/cpp/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/mehdikhfifi/cpp/tree/master/2414-move-pieces-to-obtain-a-string) |
 ## String Matching
@@ -199,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/mehdikhfifi/cpp/tree/master/0079-word-search) |
 | [0095-unique-binary-search-trees-ii](https://github.com/mehdikhfifi/cpp/tree/master/0095-unique-binary-search-trees-ii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/mehdikhfifi/cpp/tree/master/0357-count-numbers-with-unique-digits) |
 | [0473-matchsticks-to-square](https://github.com/mehdikhfifi/cpp/tree/master/0473-matchsticks-to-square) |
