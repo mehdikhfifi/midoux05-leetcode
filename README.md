@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/mehdikhfifi/cpp/tree/master/0658-find-k-closest-elements) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/mehdikhfifi/cpp/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0787-sliding-puzzle](https://github.com/mehdikhfifi/cpp/tree/master/0787-sliding-puzzle) |
+| [0853-most-profit-assigning-work](https://github.com/mehdikhfifi/cpp/tree/master/0853-most-profit-assigning-work) |
 | [0948-sort-an-array](https://github.com/mehdikhfifi/cpp/tree/master/0948-sort-an-array) |
 | [1025-minimum-cost-for-tickets](https://github.com/mehdikhfifi/cpp/tree/master/1025-minimum-cost-for-tickets) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/mehdikhfifi/cpp/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/mehdikhfifi/cpp/tree/master/0658-find-k-closest-elements) |
+| [0853-most-profit-assigning-work](https://github.com/mehdikhfifi/cpp/tree/master/0853-most-profit-assigning-work) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/mehdikhfifi/cpp/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/mehdikhfifi/cpp/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1972-rotating-the-box](https://github.com/mehdikhfifi/cpp/tree/master/1972-rotating-the-box) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mehdikhfifi/cpp/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0853-most-profit-assigning-work](https://github.com/mehdikhfifi/cpp/tree/master/0853-most-profit-assigning-work) |
 | [2089-maximum-matrix-sum](https://github.com/mehdikhfifi/cpp/tree/master/2089-maximum-matrix-sum) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/mehdikhfifi/cpp/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Breadth-First Search
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mehdikhfifi/cpp/tree/master/0004-median-of-two-sorted-arrays) |
 | [0658-find-k-closest-elements](https://github.com/mehdikhfifi/cpp/tree/master/0658-find-k-closest-elements) |
+| [0853-most-profit-assigning-work](https://github.com/mehdikhfifi/cpp/tree/master/0853-most-profit-assigning-work) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/mehdikhfifi/cpp/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/mehdikhfifi/cpp/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Divide and Conquer
@@ -188,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/mehdikhfifi/cpp/tree/master/0658-find-k-closest-elements) |
+| [0853-most-profit-assigning-work](https://github.com/mehdikhfifi/cpp/tree/master/0853-most-profit-assigning-work) |
 | [0948-sort-an-array](https://github.com/mehdikhfifi/cpp/tree/master/0948-sort-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/mehdikhfifi/cpp/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/mehdikhfifi/cpp/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
