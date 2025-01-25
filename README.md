@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/mehdikhfifi/cpp/tree/master/0062-unique-paths) |
+| [0072-edit-distance](https://github.com/mehdikhfifi/cpp/tree/master/0072-edit-distance) |
 | [0095-unique-binary-search-trees-ii](https://github.com/mehdikhfifi/cpp/tree/master/0095-unique-binary-search-trees-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mehdikhfifi/cpp/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/mehdikhfifi/cpp/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/mehdikhfifi/cpp/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/mehdikhfifi/cpp/tree/master/0079-word-search) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/mehdikhfifi/cpp/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/mehdikhfifi/cpp/tree/master/2414-move-pieces-to-obtain-a-string) |
