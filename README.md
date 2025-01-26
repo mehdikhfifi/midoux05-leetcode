@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/mehdikhfifi/cpp/tree/master/0322-coin-change) |
 | [0357-count-numbers-with-unique-digits](https://github.com/mehdikhfifi/cpp/tree/master/0357-count-numbers-with-unique-digits) |
 | [0376-wiggle-subsequence](https://github.com/mehdikhfifi/cpp/tree/master/0376-wiggle-subsequence) |
+| [0397-integer-replacement](https://github.com/mehdikhfifi/cpp/tree/master/0397-integer-replacement) |
 | [0413-arithmetic-slices](https://github.com/mehdikhfifi/cpp/tree/master/0413-arithmetic-slices) |
 | [0473-matchsticks-to-square](https://github.com/mehdikhfifi/cpp/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/mehdikhfifi/cpp/tree/master/0698-partition-to-k-equal-sum-subsets) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mehdikhfifi/cpp/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0376-wiggle-subsequence](https://github.com/mehdikhfifi/cpp/tree/master/0376-wiggle-subsequence) |
+| [0397-integer-replacement](https://github.com/mehdikhfifi/cpp/tree/master/0397-integer-replacement) |
 | [0853-most-profit-assigning-work](https://github.com/mehdikhfifi/cpp/tree/master/0853-most-profit-assigning-work) |
 | [2089-maximum-matrix-sum](https://github.com/mehdikhfifi/cpp/tree/master/2089-maximum-matrix-sum) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/mehdikhfifi/cpp/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/mehdikhfifi/cpp/tree/master/0136-single-number) |
+| [0397-integer-replacement](https://github.com/mehdikhfifi/cpp/tree/master/0397-integer-replacement) |
 | [0473-matchsticks-to-square](https://github.com/mehdikhfifi/cpp/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/mehdikhfifi/cpp/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Union Find
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0397-integer-replacement](https://github.com/mehdikhfifi/cpp/tree/master/0397-integer-replacement) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/mehdikhfifi/cpp/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Merge Sort
 |  |
