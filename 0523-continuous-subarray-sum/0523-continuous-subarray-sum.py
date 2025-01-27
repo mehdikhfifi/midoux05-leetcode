@@ -17,3 +17,6 @@ class Solution:
                 return True
         
         return False
+
+
+# solution makes hell sense
