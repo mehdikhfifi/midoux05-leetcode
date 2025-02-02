@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mehdikhfifi/cpp/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0376-wiggle-subsequence](https://github.com/mehdikhfifi/cpp/tree/master/0376-wiggle-subsequence) |
 | [0397-integer-replacement](https://github.com/mehdikhfifi/cpp/tree/master/0397-integer-replacement) |
+| [0402-remove-k-digits](https://github.com/mehdikhfifi/cpp/tree/master/0402-remove-k-digits) |
 | [0853-most-profit-assigning-work](https://github.com/mehdikhfifi/cpp/tree/master/0853-most-profit-assigning-work) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/mehdikhfifi/cpp/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2089-maximum-matrix-sum](https://github.com/mehdikhfifi/cpp/tree/master/2089-maximum-matrix-sum) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0072-edit-distance](https://github.com/mehdikhfifi/cpp/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/mehdikhfifi/cpp/tree/master/0079-word-search) |
+| [0402-remove-k-digits](https://github.com/mehdikhfifi/cpp/tree/master/0402-remove-k-digits) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/mehdikhfifi/cpp/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/mehdikhfifi/cpp/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/mehdikhfifi/cpp/tree/master/2414-move-pieces-to-obtain-a-string) |
@@ -285,4 +287,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/mehdikhfifi/cpp/tree/master/0523-continuous-subarray-sum) |
+## Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/mehdikhfifi/cpp/tree/master/0402-remove-k-digits) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/mehdikhfifi/cpp/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
