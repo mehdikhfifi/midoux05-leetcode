@@ -1,3 +1,4 @@
+
 #include <iostream>
 #include <unordered_map>
 
@@ -9,7 +10,6 @@ public:
     int value;
     Node* prev;
     Node* next;
-
     Node(int key, int value) {
         this->key = key;
         this->value = value;
@@ -19,18 +19,17 @@ public:
 };
 
 class LRUCache {
+
 private:
     int capacity;
-    unordered_map<int, Node*> cache; // Map for fast access
-    Node* head; // Dummy head
-    Node* tail; // Dummy tail
+    unordered_map<int, Node*> cache;
+    Node* head;
+    Node* tail;
 
 public:
     LRUCache(int capacity) {
         this->capacity = capacity;
         cache.reserve(capacity);
-
-        // Initialize dummy head and tail for easy deletion/insertion
         head = new Node(0, 0);
         tail = new Node(0, 0);
         head->next = tail;
@@ -38,40 +37,46 @@ public:
     }
 
     int get(int key) {
+
         if (cache.find(key) == cache.end()) {
             return -1;
         }
-        Node* node = cache[key];
 
-        // Move node to front since it is recently used
-        remove(node);
-        insert(node);
+        Node* temp = cache[key];
 
-        return node->value;
+        remove(temp);
+        insert(temp);
+
+        return temp->value;
     }
 
     void put(int key, int value) {
+
+        // check if it exists already
+
         if (cache.find(key) != cache.end()) {
-            // If key exists, update value and move to front
+
             Node* node = cache[key];
             node->value = value;
             remove(node);
             insert(node);
+
         } else {
             if (cache.size() == capacity) {
-                // Remove least recently used node
                 Node* lru = tail->prev;
+
                 cache.erase(lru->key);
                 remove(lru);
                 delete lru;
             }
-            // Insert new node at front
-            Node* newNode = new Node(key, value);
-            cache[key] = newNode;
-            insert(newNode);
+        // youcan now insert it
+        Node* newnode = new Node(key, value);
+        cache[key] = newnode; // ??????? wtf is going on
+        insert(newnode);
         }
     }
 
+    // helper functions
 private:
     void remove(Node* node) {
         node->prev->next = node->next;
