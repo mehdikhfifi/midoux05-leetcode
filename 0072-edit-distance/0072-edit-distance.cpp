@@ -1,38 +1,46 @@
 #include <iostream>
-#include <vector>
-#include <string>
-using namespace std;
 
+#include <vector>
+
+
+using namespace std;
 class Solution {
 public:
     int minDistance(string word1, string word2) {
-        int lenw1 = word1.length();
-        int lenw2 = word2.length();
 
-        // Create a DP matrix with dimensions (lenw1 + 1) x (lenw2 + 1)
-        vector<vector<int>> matrix(lenw1 + 1, vector<int>(lenw2 + 1, 0));
-
-        // Initialize the first row and column
-        for (int i = 0; i <= lenw1; i++) {
-            matrix[i][0] = i; // Deleting all characters in word1
+        if (word1.size() == 0){
+            return word2.size();
         }
-        for (int j = 0; j <= lenw2; j++) {
-            matrix[0][j] = j; // Inserting all characters in word2
+        if (word2.size() == 0){
+            return word1.size();
         }
 
-        // Fill the DP matrix
-        for (int i = 1; i <= lenw1; i++) {
-            for (int j = 1; j <= lenw2; j++) {
-                int cost = (word1[i - 1] == word2[j - 1]) ? 0 : 1;
-                matrix[i][j] = min({
-                    matrix[i][j - 1] + 1,    // Insertion
-                    matrix[i - 1][j] + 1,    // Deletion
-                    matrix[i - 1][j - 1] + cost // Replacement
-                });
+
+        int m = word1.size();
+        int n = word2.size();
+
+        int dp[m+1][n+1];
+
+        for (int i = 0; i < m+1; i++){
+            dp[i][0] = i;
+        }
+        for (int j =0 ; j < n+1; j++){
+            dp[0][j] = j;
+        }
+
+        for (int i = 1; i <= m ; i++){
+            for (int j = 1; j <= n; j++){
+
+                if (word1[i-1] == word2[j-1]){
+                    dp[i][j] = dp[i-1][j-1];
+                }
+                else{
+                    dp[i][j] = min(min(dp[i-1][j], dp[i][j-1]), dp[i-1][j-1]) + 1;
+                }
             }
         }
+        
 
-        // Return the result in the bottom-right corner
-        return matrix[lenw1][lenw2];
+        return dp[m][n];
     }
 };
