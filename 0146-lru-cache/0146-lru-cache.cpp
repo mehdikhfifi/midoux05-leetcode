@@ -1,95 +1,95 @@
 #include <iostream>
-#include <map>
-
+#include <unordered_map>
 using namespace std;
+class Node{
 
-class Node { 
-  public: 
-
+  public:
+  Node* prev;
+  Node* next;
   int key;
   int value;
-  Node *prev;
-  Node *next;
 
-    Node(int key, int value){
-      this->key = key;
-      this->value = value;
-      this->prev = nullptr;
-      this->next = nullptr; 
-    }
-
-    
+  Node(int key, int value){
+    this->prev = nullptr;
+    this->next = nullptr;
+    this->key = key;
+    this->value = value;
+  }
 };
 
 class LRUCache {
   public:
-    unordered_map<int, Node *> lrucache;
-    int capacity;
-    Node* head;
-    Node* tail;
+  unordered_map<int, Node*> cache;
+  int capacity;
+  Node* head;
+  Node* tail;
     
       LRUCache(int capacity) {
-       
         this->capacity = capacity;
-        head = new Node(0,0);
-        tail = new Node(0,0);
-        head->next = tail;
-        tail->prev = head;
+        this->head = new Node(0,0);
+        this->tail = new Node(0,0);
+        this->head->next = this->tail;
+    this->tail->prev = this->head;
+
       }
       
       int get(int key) {
-        // check if key is inside map
+        // first check does it exist
 
-        if (lrucache.find(key) != lrucache.end()){
-          remove(lrucache[key]);
-          insert(lrucache[key]);
-          return lrucache[key]->value;
+        if (this->cache.find(key) != this->cache.end()){
+          Node* resnode = this->cache[key];
 
+          remove(resnode);
+          insert(resnode);
+          
+
+          return resnode->value;
         }
         else{
           return -1;
         }
-
-
+          
       }
       
       void put(int key, int value) {
+          // check if its already there:
+
+          if(this->cache.find(key)!= this->cache.end()){
           
-        if (lrucache.find(key) != lrucache.end()){
+            Node* resnode = this->cache[key];
+            resnode->value = value;
+
+            remove(resnode);
+            insert(resnode);
           
-          Node* resnode = lrucache[key];
-          resnode->value = value;
-          remove(resnode);
-          insert(resnode);
-        }
-        else{
-          if (lrucache.size() == this->capacity){
-            Node *last_item = tail->prev;
-            lrucache.erase(last_item->key);
-            remove(tail->prev);
+
+          return;
           }
-          Node* x = new Node(key,value);
-          lrucache[key] = x;
-          insert(x);
+          else{
+            if (this->cache.size() == this->capacity){
 
+              // must remove last node
 
-        }
+              Node* lastnode = tail->prev;
+              this->cache.erase(lastnode->key);
+              remove(lastnode);
 
+            }
+            Node* x = new Node(key,value);
+            this->cache[key] = x;
+            insert(x);
+          }
       }
-      
-      void insert (Node* x){
+
+      void insert(Node* x ){
         x->next = head->next;
         x->prev = head;
         head->next->prev = x;
         head->next = x;
-
-
       }
-      void remove(Node* x){
-
-        x->prev->next = x->next;
-        x->next->prev = x->prev;
-
+      void remove(Node* y){
+        y->prev->next = y->next;
+        y->next->prev = y->prev;
       }
   };
   
