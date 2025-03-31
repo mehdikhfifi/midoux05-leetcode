@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mehdikhfifi/cpp/tree/master/0002-add-two-numbers) |
+| [0029-divide-two-integers](https://github.com/mehdikhfifi/cpp/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/mehdikhfifi/cpp/tree/master/0062-unique-paths) |
 | [0263-ugly-number](https://github.com/mehdikhfifi/cpp/tree/master/0263-ugly-number) |
 | [0279-perfect-squares](https://github.com/mehdikhfifi/cpp/tree/master/0279-perfect-squares) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/mehdikhfifi/cpp/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/mehdikhfifi/cpp/tree/master/0136-single-number) |
 | [0397-integer-replacement](https://github.com/mehdikhfifi/cpp/tree/master/0397-integer-replacement) |
 | [0473-matchsticks-to-square](https://github.com/mehdikhfifi/cpp/tree/master/0473-matchsticks-to-square) |
