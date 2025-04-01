@@ -1,95 +1,124 @@
+
 #include <iostream>
+
 #include <unordered_map>
+
 using namespace std;
-class Node{
+
+
+
+
+class Node {
 
   public:
-  Node* prev;
-  Node* next;
+
   int key;
   int value;
+  Node* prev;
+  Node* next;
+
 
   Node(int key, int value){
-    this->prev = nullptr;
-    this->next = nullptr;
     this->key = key;
     this->value = value;
+    prev = nullptr;
+    next = nullptr;
   }
+
 };
+
 
 class LRUCache {
   public:
-  unordered_map<int, Node*> cache;
-  int capacity;
-  Node* head;
-  Node* tail;
-    
-      LRUCache(int capacity) {
-        this->capacity = capacity;
-        this->head = new Node(0,0);
-        this->tail = new Node(0,0);
-        this->head->next = this->tail;
-    this->tail->prev = this->head;
 
+
+  unordered_map<int, Node*> cache;
+  Node* tail;
+  Node* head;
+  int capacity;
+// node does not have a default constructor
+
+      LRUCache(int capacity) {
+
+        this->tail = new Node(0,0);
+        this->head = new Node(0,0);
+        this->head->next = tail;
+        this->tail->prev = head;
+        this->capacity = capacity;
       }
       
       int get(int key) {
-        // first check does it exist
 
-        if (this->cache.find(key) != this->cache.end()){
-          Node* resnode = this->cache[key];
+        // check if key is inside the lru first
 
-          remove(resnode);
-          insert(resnode);
-          
-
-          return resnode->value;
+        if (cache.find(key) == cache.end()){
+          return -1;
         }
         else{
-          return -1;
+          Node* res = cache[key];
+
+          this->remove(res);
+          this->add(res);
+
+          return res->value;
+
         }
           
       }
       
       void put(int key, int value) {
-          // check if its already there:
 
-          if(this->cache.find(key)!= this->cache.end()){
+        // check capacity first;
+
+
+        if (cache.find(key) != cache.end()){
+         // check if the item is already inside the list
+         
+         // remove it first before readding
+
+         Node* res_item = cache[key];
+
+         remove(res_item);
+
+         cache.erase(key);
+
+         delete (res_item);
+
+         }
+        else if (cache.size() == capacity){
+
+          // remove last item
+
+          Node* last_item = tail->prev;
           
-            Node* resnode = this->cache[key];
-            resnode->value = value;
-
-            remove(resnode);
-            insert(resnode);
+          remove(last_item);
           
+          this->cache.erase(last_item->key);
+          
+          delete (last_item);
+        } 
 
-          return;
-          }
-          else{
-            if (this->cache.size() == this->capacity){
 
-              // must remove last node
+          Node* new_node = new Node(key,value);
 
-              Node* lastnode = tail->prev;
-              this->cache.erase(lastnode->key);
-              remove(lastnode);
+          add(new_node);
 
-            }
-            Node* x = new Node(key,value);
-            this->cache[key] = x;
-            insert(x);
-          }
+          this->cache[key] = new_node;
+          
       }
 
-      void insert(Node* x ){
-        x->next = head->next;
-        x->prev = head;
-        head->next->prev = x;
-        head->next = x;
+
+      void add (Node* node){
+
+        node->prev = head;
+        node->next = head->next;
+        head->next->prev = node;
+        head->next = node;
+
       }
-      void remove(Node* y){
-        y->prev->next = y->next;
-        y->next->prev = y->prev;
+      void remove( Node* node){
+        node->prev->next = node->next;
+        node->next->prev = node->prev;
       }
   };
   
