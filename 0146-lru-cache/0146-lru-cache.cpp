@@ -71,8 +71,6 @@ class LRUCache {
           add(new_node);
           cache[key] = new_node;
           return;
-
-          
       }
       void add(Node* node){
         node->next = this->head->next;
