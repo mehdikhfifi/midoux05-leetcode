@@ -7,7 +7,7 @@ public:
     int knightDialer(int n) {
 
 
-        long long mod = 7 + 1e9 ;
+        long long MODULO = 7 + 1e9 ;
 
         vector<vector<int>> moves = {
             {4, 6},    // 0
@@ -22,27 +22,30 @@ public:
             {2, 4}     // 9
         };
 
-        vector<vector<int>> dp(n+1, vector<int>(10,0));
+       
+        vector<vector<int>> dp(n+1,vector<int>(10,0));
 
-        for (int i = 0; i < 10; i ++){
+        cout << size(dp) << endl;
+
+        for (int i = 0; i < 10 ; i++){
             dp[1][i] = 1;
         }
 
+        // now we do the recursiveness
+
         for (int i = 2; i < n+1; i++){
             for (int digit = 0; digit < 10; digit++){
-                for (auto& move : moves[digit]){
-                    dp[i][digit] = (dp[i][digit] + dp[i-1][move]) % mod;
+                for (int c: moves[digit]){
+
+                    dp[i][digit] = (dp[i][digit] + dp[i-1][c] ) % MODULO;
                 }
+
             }
         }
-
         int res = 0;
-
         for (int i = 0; i < 10; i ++){
-            res = (res + dp[n][i]) % mod;
+            res = (res + dp[n][i]) % MODULO;
         }
-
         return res;
-        
     }
 };
