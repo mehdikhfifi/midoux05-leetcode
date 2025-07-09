@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/mehdikhfifi/cpp/tree/master/0102-binary-tree-level-order-traversal) |
 | [0279-perfect-squares](https://github.com/mehdikhfifi/cpp/tree/master/0279-perfect-squares) |
+| [0310-minimum-height-trees](https://github.com/mehdikhfifi/cpp/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/mehdikhfifi/cpp/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/mehdikhfifi/cpp/tree/master/0547-number-of-provinces) |
 | [0787-sliding-puzzle](https://github.com/mehdikhfifi/cpp/tree/master/0787-sliding-puzzle) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/mehdikhfifi/cpp/tree/master/0079-word-search) |
 | [0110-balanced-binary-tree](https://github.com/mehdikhfifi/cpp/tree/master/0110-balanced-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/mehdikhfifi/cpp/tree/master/0310-minimum-height-trees) |
 | [0547-number-of-provinces](https://github.com/mehdikhfifi/cpp/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/mehdikhfifi/cpp/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/mehdikhfifi/cpp/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0310-minimum-height-trees](https://github.com/mehdikhfifi/cpp/tree/master/0310-minimum-height-trees) |
 | [0547-number-of-provinces](https://github.com/mehdikhfifi/cpp/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/mehdikhfifi/cpp/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/mehdikhfifi/cpp/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -329,4 +332,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/mehdikhfifi/cpp/tree/master/0146-lru-cache) |
+## Topological Sort
+|  |
+| ------- |
+| [0310-minimum-height-trees](https://github.com/mehdikhfifi/cpp/tree/master/0310-minimum-height-trees) |
 <!---LeetCode Topics End-->
