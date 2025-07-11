@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/mehdikhfifi/cpp/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/mehdikhfifi/cpp/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/mehdikhfifi/cpp/tree/master/0062-unique-paths) |
+| [0096-unique-binary-search-trees](https://github.com/mehdikhfifi/cpp/tree/master/0096-unique-binary-search-trees) |
 | [0263-ugly-number](https://github.com/mehdikhfifi/cpp/tree/master/0263-ugly-number) |
 | [0279-perfect-squares](https://github.com/mehdikhfifi/cpp/tree/master/0279-perfect-squares) |
 | [0357-count-numbers-with-unique-digits](https://github.com/mehdikhfifi/cpp/tree/master/0357-count-numbers-with-unique-digits) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/mehdikhfifi/cpp/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/mehdikhfifi/cpp/tree/master/0072-edit-distance) |
 | [0095-unique-binary-search-trees-ii](https://github.com/mehdikhfifi/cpp/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/mehdikhfifi/cpp/tree/master/0096-unique-binary-search-trees) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mehdikhfifi/cpp/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/mehdikhfifi/cpp/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0198-house-robber](https://github.com/mehdikhfifi/cpp/tree/master/0198-house-robber) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/mehdikhfifi/cpp/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/mehdikhfifi/cpp/tree/master/0096-unique-binary-search-trees) |
 | [0102-binary-tree-level-order-traversal](https://github.com/mehdikhfifi/cpp/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/mehdikhfifi/cpp/tree/master/0110-balanced-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/mehdikhfifi/cpp/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
@@ -286,10 +289,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/mehdikhfifi/cpp/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/mehdikhfifi/cpp/tree/master/0096-unique-binary-search-trees) |
 ## Binary Tree
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/mehdikhfifi/cpp/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/mehdikhfifi/cpp/tree/master/0096-unique-binary-search-trees) |
 | [0102-binary-tree-level-order-traversal](https://github.com/mehdikhfifi/cpp/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/mehdikhfifi/cpp/tree/master/0110-balanced-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/mehdikhfifi/cpp/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
