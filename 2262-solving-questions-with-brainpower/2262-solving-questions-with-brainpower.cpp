@@ -1,4 +1,4 @@
-#include <algorithm>
+
 
 class Solution {
 public:
@@ -25,7 +25,7 @@ public:
         dp[i] = max(cur_q, dp[i+1]);
         }
 
-        return *max_element(dp.begin(), dp.end());
+        return dp[0];
 
     }
 };
