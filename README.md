@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/mehdikhfifi/cpp/tree/master/0322-coin-change) |
 | [0376-wiggle-subsequence](https://github.com/mehdikhfifi/cpp/tree/master/0376-wiggle-subsequence) |
 | [0413-arithmetic-slices](https://github.com/mehdikhfifi/cpp/tree/master/0413-arithmetic-slices) |
+| [0416-partition-equal-subset-sum](https://github.com/mehdikhfifi/cpp/tree/master/0416-partition-equal-subset-sum) |
 | [0473-matchsticks-to-square](https://github.com/mehdikhfifi/cpp/tree/master/0473-matchsticks-to-square) |
 | [0523-continuous-subarray-sum](https://github.com/mehdikhfifi/cpp/tree/master/0523-continuous-subarray-sum) |
 | [0553-optimal-division](https://github.com/mehdikhfifi/cpp/tree/master/0553-optimal-division) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0376-wiggle-subsequence](https://github.com/mehdikhfifi/cpp/tree/master/0376-wiggle-subsequence) |
 | [0397-integer-replacement](https://github.com/mehdikhfifi/cpp/tree/master/0397-integer-replacement) |
 | [0413-arithmetic-slices](https://github.com/mehdikhfifi/cpp/tree/master/0413-arithmetic-slices) |
+| [0416-partition-equal-subset-sum](https://github.com/mehdikhfifi/cpp/tree/master/0416-partition-equal-subset-sum) |
 | [0473-matchsticks-to-square](https://github.com/mehdikhfifi/cpp/tree/master/0473-matchsticks-to-square) |
 | [0553-optimal-division](https://github.com/mehdikhfifi/cpp/tree/master/0553-optimal-division) |
 | [0646-maximum-length-of-pair-chain](https://github.com/mehdikhfifi/cpp/tree/master/0646-maximum-length-of-pair-chain) |
