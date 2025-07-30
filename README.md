@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/mehdikhfifi/cpp/tree/master/0004-median-of-two-sorted-arrays) |
 | [0039-combination-sum](https://github.com/mehdikhfifi/cpp/tree/master/0039-combination-sum) |
 | [0063-unique-paths-ii](https://github.com/mehdikhfifi/cpp/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/mehdikhfifi/cpp/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/mehdikhfifi/cpp/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/mehdikhfifi/cpp/tree/master/0079-word-search) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mehdikhfifi/cpp/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/mehdikhfifi/cpp/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/mehdikhfifi/cpp/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/mehdikhfifi/cpp/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/mehdikhfifi/cpp/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/mehdikhfifi/cpp/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/mehdikhfifi/cpp/tree/master/0095-unique-binary-search-trees-ii) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/mehdikhfifi/cpp/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/mehdikhfifi/cpp/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/mehdikhfifi/cpp/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/mehdikhfifi/cpp/tree/master/0079-word-search) |
 | [0787-sliding-puzzle](https://github.com/mehdikhfifi/cpp/tree/master/0787-sliding-puzzle) |
