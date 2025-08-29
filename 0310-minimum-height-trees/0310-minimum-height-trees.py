@@ -1,8 +1,8 @@
 from collections import defaultdict
 class Solution:
     def findMinHeightTrees(self, n: int, edges: List[List[int]]) -> List[int]:
-        if n == 1:
-            return [0]
+        if n <= 1:
+            return [i for i in range(n)]
         graph = defaultdict(list)
 
         degree = [0] * n
