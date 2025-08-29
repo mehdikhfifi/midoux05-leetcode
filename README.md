@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/mehdikhfifi/cpp/tree/master/0102-binary-tree-level-order-traversal) |
+| [0207-course-schedule](https://github.com/mehdikhfifi/cpp/tree/master/0207-course-schedule) |
 | [0279-perfect-squares](https://github.com/mehdikhfifi/cpp/tree/master/0279-perfect-squares) |
 | [0310-minimum-height-trees](https://github.com/mehdikhfifi/cpp/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/mehdikhfifi/cpp/tree/master/0322-coin-change) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/mehdikhfifi/cpp/tree/master/0079-word-search) |
 | [0110-balanced-binary-tree](https://github.com/mehdikhfifi/cpp/tree/master/0110-balanced-binary-tree) |
+| [0207-course-schedule](https://github.com/mehdikhfifi/cpp/tree/master/0207-course-schedule) |
 | [0310-minimum-height-trees](https://github.com/mehdikhfifi/cpp/tree/master/0310-minimum-height-trees) |
 | [0547-number-of-provinces](https://github.com/mehdikhfifi/cpp/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/mehdikhfifi/cpp/tree/master/0801-is-graph-bipartite) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/mehdikhfifi/cpp/tree/master/0207-course-schedule) |
 | [0310-minimum-height-trees](https://github.com/mehdikhfifi/cpp/tree/master/0310-minimum-height-trees) |
 | [0547-number-of-provinces](https://github.com/mehdikhfifi/cpp/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/mehdikhfifi/cpp/tree/master/0801-is-graph-bipartite) |
@@ -377,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/mehdikhfifi/cpp/tree/master/0207-course-schedule) |
 | [0310-minimum-height-trees](https://github.com/mehdikhfifi/cpp/tree/master/0310-minimum-height-trees) |
 | [0820-find-eventual-safe-states](https://github.com/mehdikhfifi/cpp/tree/master/0820-find-eventual-safe-states) |
 ## Trie
