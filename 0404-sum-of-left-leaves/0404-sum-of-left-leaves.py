@@ -7,21 +7,13 @@
 class Solution:
     def sumOfLeftLeaves(self, root: Optional[TreeNode]) -> int:
         
-        res = 0
-        def explore(node):
-            nonlocal res
+        if not root:
+            return 0
+        def explore(node, isLeft):
             if not node:
                 return 0
-            a = explore(node.left)
-            b = explore(node.right)
-            res+= a
             if not node.left and not node.right:
-                return node.val
-            else:
-                return 0
-
-
+                return node.val if not isLeft else 0 
+            return explore(node.left, False) + explore(node.right, True)
         
-        explore(root)
-        
-        return res
+        return explore(root.left, False) + explore(root.right, True)
