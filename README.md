@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/mehdikhfifi/cpp/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/mehdikhfifi/cpp/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/mehdikhfifi/cpp/tree/master/0404-sum-of-left-leaves) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/mehdikhfifi/cpp/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/mehdikhfifi/cpp/tree/master/0547-number-of-provinces) |
 | [0787-sliding-puzzle](https://github.com/mehdikhfifi/cpp/tree/master/0787-sliding-puzzle) |
 | [0801-is-graph-bipartite](https://github.com/mehdikhfifi/cpp/tree/master/0801-is-graph-bipartite) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/mehdikhfifi/cpp/tree/master/0310-minimum-height-trees) |
 | [0404-sum-of-left-leaves](https://github.com/mehdikhfifi/cpp/tree/master/0404-sum-of-left-leaves) |
 | [0419-battleships-in-a-board](https://github.com/mehdikhfifi/cpp/tree/master/0419-battleships-in-a-board) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/mehdikhfifi/cpp/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/mehdikhfifi/cpp/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/mehdikhfifi/cpp/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/mehdikhfifi/cpp/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/mehdikhfifi/cpp/tree/master/0110-balanced-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mehdikhfifi/cpp/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0404-sum-of-left-leaves](https://github.com/mehdikhfifi/cpp/tree/master/0404-sum-of-left-leaves) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/mehdikhfifi/cpp/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/mehdikhfifi/cpp/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [2175-count-nodes-with-the-highest-score](https://github.com/mehdikhfifi/cpp/tree/master/2175-count-nodes-with-the-highest-score) |
 ## Binary Search Tree
@@ -337,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/mehdikhfifi/cpp/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/mehdikhfifi/cpp/tree/master/0096-unique-binary-search-trees) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mehdikhfifi/cpp/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/mehdikhfifi/cpp/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -346,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/mehdikhfifi/cpp/tree/master/0110-balanced-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mehdikhfifi/cpp/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0404-sum-of-left-leaves](https://github.com/mehdikhfifi/cpp/tree/master/0404-sum-of-left-leaves) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/mehdikhfifi/cpp/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/mehdikhfifi/cpp/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [2175-count-nodes-with-the-highest-score](https://github.com/mehdikhfifi/cpp/tree/master/2175-count-nodes-with-the-highest-score) |
 ## Bitmask
