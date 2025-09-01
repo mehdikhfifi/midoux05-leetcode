@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0376-wiggle-subsequence](https://github.com/mehdikhfifi/cpp/tree/master/0376-wiggle-subsequence) |
 | [0413-arithmetic-slices](https://github.com/mehdikhfifi/cpp/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/mehdikhfifi/cpp/tree/master/0416-partition-equal-subset-sum) |
+| [0419-battleships-in-a-board](https://github.com/mehdikhfifi/cpp/tree/master/0419-battleships-in-a-board) |
 | [0473-matchsticks-to-square](https://github.com/mehdikhfifi/cpp/tree/master/0473-matchsticks-to-square) |
 | [0518-coin-change-ii](https://github.com/mehdikhfifi/cpp/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/mehdikhfifi/cpp/tree/master/0523-continuous-subarray-sum) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/mehdikhfifi/cpp/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/mehdikhfifi/cpp/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/mehdikhfifi/cpp/tree/master/0079-word-search) |
+| [0419-battleships-in-a-board](https://github.com/mehdikhfifi/cpp/tree/master/0419-battleships-in-a-board) |
 | [0787-sliding-puzzle](https://github.com/mehdikhfifi/cpp/tree/master/0787-sliding-puzzle) |
 | [1972-rotating-the-box](https://github.com/mehdikhfifi/cpp/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/mehdikhfifi/cpp/tree/master/2089-maximum-matrix-sum) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/mehdikhfifi/cpp/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/mehdikhfifi/cpp/tree/master/0310-minimum-height-trees) |
 | [0404-sum-of-left-leaves](https://github.com/mehdikhfifi/cpp/tree/master/0404-sum-of-left-leaves) |
+| [0419-battleships-in-a-board](https://github.com/mehdikhfifi/cpp/tree/master/0419-battleships-in-a-board) |
 | [0547-number-of-provinces](https://github.com/mehdikhfifi/cpp/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/mehdikhfifi/cpp/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/mehdikhfifi/cpp/tree/master/0803-cheapest-flights-within-k-stops) |
