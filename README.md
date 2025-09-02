@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/mehdikhfifi/cpp/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/mehdikhfifi/cpp/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/mehdikhfifi/cpp/tree/master/0547-number-of-provinces) |
+| [0655-print-binary-tree](https://github.com/mehdikhfifi/cpp/tree/master/0655-print-binary-tree) |
 | [0787-sliding-puzzle](https://github.com/mehdikhfifi/cpp/tree/master/0787-sliding-puzzle) |
 | [0801-is-graph-bipartite](https://github.com/mehdikhfifi/cpp/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/mehdikhfifi/cpp/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/mehdikhfifi/cpp/tree/master/0419-battleships-in-a-board) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/mehdikhfifi/cpp/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/mehdikhfifi/cpp/tree/master/0547-number-of-provinces) |
+| [0655-print-binary-tree](https://github.com/mehdikhfifi/cpp/tree/master/0655-print-binary-tree) |
 | [0801-is-graph-bipartite](https://github.com/mehdikhfifi/cpp/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/mehdikhfifi/cpp/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/mehdikhfifi/cpp/tree/master/0820-find-eventual-safe-states) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mehdikhfifi/cpp/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0404-sum-of-left-leaves](https://github.com/mehdikhfifi/cpp/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/mehdikhfifi/cpp/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0655-print-binary-tree](https://github.com/mehdikhfifi/cpp/tree/master/0655-print-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/mehdikhfifi/cpp/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [2175-count-nodes-with-the-highest-score](https://github.com/mehdikhfifi/cpp/tree/master/2175-count-nodes-with-the-highest-score) |
 ## Binary Search Tree
@@ -351,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mehdikhfifi/cpp/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0404-sum-of-left-leaves](https://github.com/mehdikhfifi/cpp/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/mehdikhfifi/cpp/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0655-print-binary-tree](https://github.com/mehdikhfifi/cpp/tree/master/0655-print-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/mehdikhfifi/cpp/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [2175-count-nodes-with-the-highest-score](https://github.com/mehdikhfifi/cpp/tree/master/2175-count-nodes-with-the-highest-score) |
 ## Bitmask
