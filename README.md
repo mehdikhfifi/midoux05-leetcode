@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/mehdikhfifi/cpp/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/mehdikhfifi/cpp/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/mehdikhfifi/cpp/tree/master/0871-keys-and-rooms) |
+| [1558-course-schedule-iv](https://github.com/mehdikhfifi/cpp/tree/master/1558-course-schedule-iv) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/mehdikhfifi/cpp/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/mehdikhfifi/cpp/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/mehdikhfifi/cpp/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/mehdikhfifi/cpp/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/mehdikhfifi/cpp/tree/master/0871-keys-and-rooms) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/mehdikhfifi/cpp/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+| [1558-course-schedule-iv](https://github.com/mehdikhfifi/cpp/tree/master/1558-course-schedule-iv) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/mehdikhfifi/cpp/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2175-count-nodes-with-the-highest-score](https://github.com/mehdikhfifi/cpp/tree/master/2175-count-nodes-with-the-highest-score) |
 | [2201-valid-arrangement-of-pairs](https://github.com/mehdikhfifi/cpp/tree/master/2201-valid-arrangement-of-pairs) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/mehdikhfifi/cpp/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/mehdikhfifi/cpp/tree/master/0871-keys-and-rooms) |
 | [1325-path-with-maximum-probability](https://github.com/mehdikhfifi/cpp/tree/master/1325-path-with-maximum-probability) |
+| [1558-course-schedule-iv](https://github.com/mehdikhfifi/cpp/tree/master/1558-course-schedule-iv) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/mehdikhfifi/cpp/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2201-valid-arrangement-of-pairs](https://github.com/mehdikhfifi/cpp/tree/master/2201-valid-arrangement-of-pairs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/mehdikhfifi/cpp/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -411,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/mehdikhfifi/cpp/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/mehdikhfifi/cpp/tree/master/0310-minimum-height-trees) |
 | [0820-find-eventual-safe-states](https://github.com/mehdikhfifi/cpp/tree/master/0820-find-eventual-safe-states) |
+| [1558-course-schedule-iv](https://github.com/mehdikhfifi/cpp/tree/master/1558-course-schedule-iv) |
 ## Trie
 |  |
 | ------- |
