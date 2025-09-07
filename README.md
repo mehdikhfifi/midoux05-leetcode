@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/mehdikhfifi/cpp/tree/master/0658-find-k-closest-elements) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/mehdikhfifi/cpp/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/mehdikhfifi/cpp/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0948-sort-an-array](https://github.com/mehdikhfifi/cpp/tree/master/0948-sort-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/mehdikhfifi/cpp/tree/master/1325-path-with-maximum-probability) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/mehdikhfifi/cpp/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0606-construct-string-from-binary-tree](https://github.com/mehdikhfifi/cpp/tree/master/0606-construct-string-from-binary-tree) |
 | [0655-print-binary-tree](https://github.com/mehdikhfifi/cpp/tree/master/0655-print-binary-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/mehdikhfifi/cpp/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/mehdikhfifi/cpp/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [2175-count-nodes-with-the-highest-score](https://github.com/mehdikhfifi/cpp/tree/master/2175-count-nodes-with-the-highest-score) |
 ## Binary Search Tree
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/mehdikhfifi/cpp/tree/master/0096-unique-binary-search-trees) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mehdikhfifi/cpp/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/mehdikhfifi/cpp/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/mehdikhfifi/cpp/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
 | ------- |
@@ -362,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/mehdikhfifi/cpp/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0606-construct-string-from-binary-tree](https://github.com/mehdikhfifi/cpp/tree/master/0606-construct-string-from-binary-tree) |
 | [0655-print-binary-tree](https://github.com/mehdikhfifi/cpp/tree/master/0655-print-binary-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/mehdikhfifi/cpp/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/mehdikhfifi/cpp/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [2175-count-nodes-with-the-highest-score](https://github.com/mehdikhfifi/cpp/tree/master/2175-count-nodes-with-the-highest-score) |
 ## Bitmask
@@ -407,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/mehdikhfifi/cpp/tree/master/0146-lru-cache) |
 | [0307-range-sum-query-mutable](https://github.com/mehdikhfifi/cpp/tree/master/0307-range-sum-query-mutable) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/mehdikhfifi/cpp/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -431,4 +436,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/mehdikhfifi/cpp/tree/master/0307-range-sum-query-mutable) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/mehdikhfifi/cpp/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
