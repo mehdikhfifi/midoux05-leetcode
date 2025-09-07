@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/mehdikhfifi/cpp/tree/master/0419-battleships-in-a-board) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/mehdikhfifi/cpp/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/mehdikhfifi/cpp/tree/master/0547-number-of-provinces) |
+| [0606-construct-string-from-binary-tree](https://github.com/mehdikhfifi/cpp/tree/master/0606-construct-string-from-binary-tree) |
 | [0655-print-binary-tree](https://github.com/mehdikhfifi/cpp/tree/master/0655-print-binary-tree) |
 | [0801-is-graph-bipartite](https://github.com/mehdikhfifi/cpp/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/mehdikhfifi/cpp/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/mehdikhfifi/cpp/tree/master/0091-decode-ways) |
 | [0402-remove-k-digits](https://github.com/mehdikhfifi/cpp/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/mehdikhfifi/cpp/tree/master/0409-longest-palindrome) |
+| [0606-construct-string-from-binary-tree](https://github.com/mehdikhfifi/cpp/tree/master/0606-construct-string-from-binary-tree) |
 | [1397-search-suggestions-system](https://github.com/mehdikhfifi/cpp/tree/master/1397-search-suggestions-system) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/mehdikhfifi/cpp/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/mehdikhfifi/cpp/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mehdikhfifi/cpp/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0404-sum-of-left-leaves](https://github.com/mehdikhfifi/cpp/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/mehdikhfifi/cpp/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0606-construct-string-from-binary-tree](https://github.com/mehdikhfifi/cpp/tree/master/0606-construct-string-from-binary-tree) |
 | [0655-print-binary-tree](https://github.com/mehdikhfifi/cpp/tree/master/0655-print-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/mehdikhfifi/cpp/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [2175-count-nodes-with-the-highest-score](https://github.com/mehdikhfifi/cpp/tree/master/2175-count-nodes-with-the-highest-score) |
@@ -357,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mehdikhfifi/cpp/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0404-sum-of-left-leaves](https://github.com/mehdikhfifi/cpp/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/mehdikhfifi/cpp/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0606-construct-string-from-binary-tree](https://github.com/mehdikhfifi/cpp/tree/master/0606-construct-string-from-binary-tree) |
 | [0655-print-binary-tree](https://github.com/mehdikhfifi/cpp/tree/master/0655-print-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/mehdikhfifi/cpp/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [2175-count-nodes-with-the-highest-score](https://github.com/mehdikhfifi/cpp/tree/master/2175-count-nodes-with-the-highest-score) |
