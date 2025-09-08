@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/mehdikhfifi/cpp/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/mehdikhfifi/cpp/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/mehdikhfifi/cpp/tree/master/0062-unique-paths) |
+| [0069-sqrtx](https://github.com/mehdikhfifi/cpp/tree/master/0069-sqrtx) |
 | [0096-unique-binary-search-trees](https://github.com/mehdikhfifi/cpp/tree/master/0096-unique-binary-search-trees) |
 | [0263-ugly-number](https://github.com/mehdikhfifi/cpp/tree/master/0263-ugly-number) |
 | [0279-perfect-squares](https://github.com/mehdikhfifi/cpp/tree/master/0279-perfect-squares) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mehdikhfifi/cpp/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/mehdikhfifi/cpp/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/mehdikhfifi/cpp/tree/master/0074-search-a-2d-matrix) |
 | [0300-longest-increasing-subsequence](https://github.com/mehdikhfifi/cpp/tree/master/0300-longest-increasing-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/mehdikhfifi/cpp/tree/master/0658-find-k-closest-elements) |
