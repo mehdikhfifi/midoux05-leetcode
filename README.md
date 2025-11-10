@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/mehdikhfifi/cpp/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/mehdikhfifi/cpp/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/mehdikhfifi/cpp/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/mehdikhfifi/cpp/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Hash Table
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/mehdikhfifi/cpp/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/mehdikhfifi/cpp/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/mehdikhfifi/cpp/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/mehdikhfifi/cpp/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Linked List
 |  |
 | ------- |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/mehdikhfifi/cpp/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2089-maximum-matrix-sum](https://github.com/mehdikhfifi/cpp/tree/master/2089-maximum-matrix-sum) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/mehdikhfifi/cpp/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/mehdikhfifi/cpp/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -412,10 +415,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/mehdikhfifi/cpp/tree/master/0402-remove-k-digits) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/mehdikhfifi/cpp/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/mehdikhfifi/cpp/tree/master/0402-remove-k-digits) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/mehdikhfifi/cpp/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Design
 |  |
 | ------- |
