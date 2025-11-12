@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/mehdikhfifi/cpp/tree/master/0416-partition-equal-subset-sum) |
 | [0419-battleships-in-a-board](https://github.com/mehdikhfifi/cpp/tree/master/0419-battleships-in-a-board) |
 | [0473-matchsticks-to-square](https://github.com/mehdikhfifi/cpp/tree/master/0473-matchsticks-to-square) |
+| [0474-ones-and-zeroes](https://github.com/mehdikhfifi/cpp/tree/master/0474-ones-and-zeroes) |
 | [0518-coin-change-ii](https://github.com/mehdikhfifi/cpp/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/mehdikhfifi/cpp/tree/master/0523-continuous-subarray-sum) |
 | [0553-optimal-division](https://github.com/mehdikhfifi/cpp/tree/master/0553-optimal-division) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/mehdikhfifi/cpp/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/mehdikhfifi/cpp/tree/master/0416-partition-equal-subset-sum) |
 | [0473-matchsticks-to-square](https://github.com/mehdikhfifi/cpp/tree/master/0473-matchsticks-to-square) |
+| [0474-ones-and-zeroes](https://github.com/mehdikhfifi/cpp/tree/master/0474-ones-and-zeroes) |
 | [0518-coin-change-ii](https://github.com/mehdikhfifi/cpp/tree/master/0518-coin-change-ii) |
 | [0553-optimal-division](https://github.com/mehdikhfifi/cpp/tree/master/0553-optimal-division) |
 | [0646-maximum-length-of-pair-chain](https://github.com/mehdikhfifi/cpp/tree/master/0646-maximum-length-of-pair-chain) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/mehdikhfifi/cpp/tree/master/0091-decode-ways) |
 | [0402-remove-k-digits](https://github.com/mehdikhfifi/cpp/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/mehdikhfifi/cpp/tree/master/0409-longest-palindrome) |
+| [0474-ones-and-zeroes](https://github.com/mehdikhfifi/cpp/tree/master/0474-ones-and-zeroes) |
 | [0606-construct-string-from-binary-tree](https://github.com/mehdikhfifi/cpp/tree/master/0606-construct-string-from-binary-tree) |
 | [1397-search-suggestions-system](https://github.com/mehdikhfifi/cpp/tree/master/1397-search-suggestions-system) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/mehdikhfifi/cpp/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
