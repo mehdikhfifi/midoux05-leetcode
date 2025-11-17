@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-path-with-maximum-probability](https://github.com/mehdikhfifi/cpp/tree/master/1325-path-with-maximum-probability) |
 | [1397-search-suggestions-system](https://github.com/mehdikhfifi/cpp/tree/master/1397-search-suggestions-system) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/mehdikhfifi/cpp/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/mehdikhfifi/cpp/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/mehdikhfifi/cpp/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1755-defuse-the-bomb](https://github.com/mehdikhfifi/cpp/tree/master/1755-defuse-the-bomb) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/mehdikhfifi/cpp/tree/master/1878-check-if-array-is-sorted-and-rotated) |
