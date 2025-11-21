@@ -2,7 +2,7 @@ class Solution:
     def intersectionSizeTwo(self, intervals: List[List[int]]) -> int:
 
 
-        intervals.sort(key =  lambda x : (x[1], x[0]))
+        intervals.sort(key =  lambda x : (x[1]))
         print(intervals)
 
         a = -1
