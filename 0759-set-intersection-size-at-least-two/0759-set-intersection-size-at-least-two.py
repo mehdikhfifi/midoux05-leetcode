@@ -2,7 +2,7 @@ class Solution:
     def intersectionSizeTwo(self, intervals: List[List[int]]) -> int:
 
 
-        intervals.sort(key =  lambda x : (x[1]))
+        intervals.sort(key =  lambda x : (x[1],-x[0]))
         print(intervals)
 
         a = -1
@@ -11,17 +11,13 @@ class Solution:
 
         for interval in intervals:
             # print(f"interval[0] is {interval[0]} and interval[1] is {interval[1]}")
-            print(interval)
-            print(f"value of a is {a} and b is {b}")
-            if not ( b >= interval[0] and b <= interval[1]):
-                print("ans b is incrementing")
-                ans += 1
-                b = interval[1]
-            if not (a >= interval[0] and a <= interval[1]):
-                print("ans a is incrementing")
-                ans += 1
-                a = interval[1] if b != interval[1] else interval[1]-1
-            a,b= min(a,b),max(a,b)
+            if b < interval[0]:
+                ans +=2
+                a,b = interval[1]-1, interval[1]
+            elif a < interval[0]:
+                ans +=1
+                a,b = b, interval[1]
+
         return ans
             
 
