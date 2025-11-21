@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/mehdikhfifi/cpp/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/mehdikhfifi/cpp/tree/master/0004-median-of-two-sorted-arrays) |
 | [0039-combination-sum](https://github.com/mehdikhfifi/cpp/tree/master/0039-combination-sum) |
+| [0048-rotate-image](https://github.com/mehdikhfifi/cpp/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/mehdikhfifi/cpp/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/mehdikhfifi/cpp/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/mehdikhfifi/cpp/tree/master/0074-search-a-2d-matrix) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/mehdikhfifi/cpp/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/mehdikhfifi/cpp/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/mehdikhfifi/cpp/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/mehdikhfifi/cpp/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/mehdikhfifi/cpp/tree/master/0069-sqrtx) |
 | [0096-unique-binary-search-trees](https://github.com/mehdikhfifi/cpp/tree/master/0096-unique-binary-search-trees) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/mehdikhfifi/cpp/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/mehdikhfifi/cpp/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/mehdikhfifi/cpp/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/mehdikhfifi/cpp/tree/master/0074-search-a-2d-matrix) |
