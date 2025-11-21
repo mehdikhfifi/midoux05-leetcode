@@ -1,15 +1,30 @@
 class Solution:
-    def countPalindromicSubsequence(self, s: str) -> int:   
-        if len(s) <= 2:
-            return 0
+    def countPalindromicSubsequence(self, s: str) -> int:
+        
 
-        chars = set(s)
+        fl = [[-1,-1] for _ in range(26)] 
+
+        for index, char in enumerate(s):
+            alpha = ord(char) - ord('a')
+            # print(alpha)
+            if fl[alpha][0] == -1:
+                fl[alpha][0] = index
+                fl[alpha][1] = index
+            elif fl[alpha][1] != -1:
+                fl[alpha][1] = index
+        # print(fl)
         res = 0
-        for ch in chars:
-            first = s.find(ch)
-            last = s.rfind(ch)
-
-            if first != last:
-                res += len(set(s[first + 1:last]))
-
+        for alphabet in range(26):
+            if (fl[alphabet] == [-1,-1]) or (fl[alphabet][0] == fl[alphabet][1]):
+                continue
+            print(fl[alphabet])
+            temp_set = set()
+            for i in range(fl[alphabet][0]+1, fl[alphabet][1]):
+                temp_set.add(s[i])
+            res += len(temp_set)
+        
         return res
+
+
+
+            
