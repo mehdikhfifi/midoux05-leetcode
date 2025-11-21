@@ -22,7 +22,6 @@ class Solution:
                 ans += 1
                 a = interval[1] if b != interval[1] else interval[1]-1
             a,b= min(a,b),max(a,b)
-
         return ans
             
 
