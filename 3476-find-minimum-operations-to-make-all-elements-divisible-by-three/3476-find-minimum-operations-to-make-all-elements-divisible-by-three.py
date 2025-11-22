@@ -3,6 +3,6 @@ class Solution:
         res = 0
 
         for num in nums:
-            res += min(num%3, 3-num%3)
+            res += 1 if num %3 != 0 else 0 
 
         return res
