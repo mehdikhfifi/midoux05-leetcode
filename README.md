@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-sliding-puzzle](https://github.com/mehdikhfifi/cpp/tree/master/0787-sliding-puzzle) |
 | [0853-most-profit-assigning-work](https://github.com/mehdikhfifi/cpp/tree/master/0853-most-profit-assigning-work) |
 | [0948-sort-an-array](https://github.com/mehdikhfifi/cpp/tree/master/0948-sort-an-array) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/mehdikhfifi/cpp/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1025-minimum-cost-for-tickets](https://github.com/mehdikhfifi/cpp/tree/master/1025-minimum-cost-for-tickets) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/mehdikhfifi/cpp/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1325-path-with-maximum-probability](https://github.com/mehdikhfifi/cpp/tree/master/1325-path-with-maximum-probability) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/mehdikhfifi/cpp/tree/master/0397-integer-replacement) |
 | [0473-matchsticks-to-square](https://github.com/mehdikhfifi/cpp/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/mehdikhfifi/cpp/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/mehdikhfifi/cpp/tree/master/1018-binary-prefix-divisible-by-5) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/mehdikhfifi/cpp/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Union Find
 |  |
