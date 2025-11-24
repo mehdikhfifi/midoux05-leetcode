@@ -10,4 +10,4 @@ class Solution:
                 tmp_ans += 1
             res.append(tmp_ans % 5 == 0)
             tmp +=1
-        return res[::]
+        return res
