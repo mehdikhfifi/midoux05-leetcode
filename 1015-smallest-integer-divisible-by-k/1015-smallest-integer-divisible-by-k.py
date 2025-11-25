@@ -10,7 +10,6 @@ class Solution:
                 temp *= 10
                 temp +=1
                 res +=1
-        
             return res
 
 
