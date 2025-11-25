@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/mehdikhfifi/cpp/tree/master/0409-longest-palindrome) |
 | [0523-continuous-subarray-sum](https://github.com/mehdikhfifi/cpp/tree/master/0523-continuous-subarray-sum) |
 | [0740-delete-and-earn](https://github.com/mehdikhfifi/cpp/tree/master/0740-delete-and-earn) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/mehdikhfifi/cpp/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/mehdikhfifi/cpp/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/mehdikhfifi/cpp/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/mehdikhfifi/cpp/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/mehdikhfifi/cpp/tree/master/0357-count-numbers-with-unique-digits) |
 | [0523-continuous-subarray-sum](https://github.com/mehdikhfifi/cpp/tree/master/0523-continuous-subarray-sum) |
 | [0553-optimal-division](https://github.com/mehdikhfifi/cpp/tree/master/0553-optimal-division) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/mehdikhfifi/cpp/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2288-count-operations-to-obtain-zero](https://github.com/mehdikhfifi/cpp/tree/master/2288-count-operations-to-obtain-zero) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mehdikhfifi/cpp/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Recursion
