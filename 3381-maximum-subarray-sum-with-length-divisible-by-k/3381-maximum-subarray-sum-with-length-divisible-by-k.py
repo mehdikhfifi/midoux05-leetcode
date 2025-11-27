@@ -15,7 +15,7 @@ class Solution:
             tmp_arr = []
             for j in range(i,n-k,k):
                 tmp_arr.append(nums[j+k] - nums[j])
-            print(tmp_arr)
+            # print(tmp_arr)
 
             # run kadane's algo
             running_sum = 0
