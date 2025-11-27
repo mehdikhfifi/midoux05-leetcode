@@ -21,7 +21,7 @@ class Solution:
             running_sum = 0
             for x in tmp_arr:
                 running_sum += x
-                print(running_sum)
+                # print(running_sum)
                 res = max(running_sum, res)
                 if running_sum < 0:
                     running_sum = 0
