@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/mehdikhfifi/cpp/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2175-count-nodes-with-the-highest-score](https://github.com/mehdikhfifi/cpp/tree/master/2175-count-nodes-with-the-highest-score) |
 | [2201-valid-arrangement-of-pairs](https://github.com/mehdikhfifi/cpp/tree/master/2201-valid-arrangement-of-pairs) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/mehdikhfifi/cpp/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Graph
 |  |
 | ------- |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/mehdikhfifi/cpp/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/mehdikhfifi/cpp/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [2175-count-nodes-with-the-highest-score](https://github.com/mehdikhfifi/cpp/tree/master/2175-count-nodes-with-the-highest-score) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/mehdikhfifi/cpp/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Binary Search Tree
 |  |
 | ------- |
