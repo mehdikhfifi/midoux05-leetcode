@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mehdikhfifi/cpp/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/mehdikhfifi/cpp/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/mehdikhfifi/cpp/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3623-count-number-of-trapezoids-i](https://github.com/mehdikhfifi/cpp/tree/master/3623-count-number-of-trapezoids-i) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/mehdikhfifi/cpp/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Hash Table
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/mehdikhfifi/cpp/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/mehdikhfifi/cpp/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/mehdikhfifi/cpp/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3623-count-number-of-trapezoids-i](https://github.com/mehdikhfifi/cpp/tree/master/3623-count-number-of-trapezoids-i) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/mehdikhfifi/cpp/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Linked List
 |  |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/mehdikhfifi/cpp/tree/master/2288-count-operations-to-obtain-zero) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mehdikhfifi/cpp/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mehdikhfifi/cpp/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3623-count-number-of-trapezoids-i](https://github.com/mehdikhfifi/cpp/tree/master/3623-count-number-of-trapezoids-i) |
 ## Recursion
 |  |
 | ------- |
@@ -501,4 +504,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/mehdikhfifi/cpp/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/mehdikhfifi/cpp/tree/master/2288-count-operations-to-obtain-zero) |
+## Geometry
+|  |
+| ------- |
+| [3623-count-number-of-trapezoids-i](https://github.com/mehdikhfifi/cpp/tree/master/3623-count-number-of-trapezoids-i) |
 <!---LeetCode Topics End-->
