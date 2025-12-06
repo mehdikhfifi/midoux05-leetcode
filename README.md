@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/mehdikhfifi/cpp/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mehdikhfifi/cpp/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/mehdikhfifi/cpp/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/mehdikhfifi/cpp/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/mehdikhfifi/cpp/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/mehdikhfifi/cpp/tree/master/3623-count-number-of-trapezoids-i) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/mehdikhfifi/cpp/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/mehdikhfifi/cpp/tree/master/0658-find-k-closest-elements) |
 | [1755-defuse-the-bomb](https://github.com/mehdikhfifi/cpp/tree/master/1755-defuse-the-bomb) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mehdikhfifi/cpp/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/mehdikhfifi/cpp/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/mehdikhfifi/cpp/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Dynamic Programming
 |  |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2397-count-number-of-ways-to-place-houses](https://github.com/mehdikhfifi/cpp/tree/master/2397-count-number-of-ways-to-place-houses) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/mehdikhfifi/cpp/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2444-longest-ideal-subsequence](https://github.com/mehdikhfifi/cpp/tree/master/2444-longest-ideal-subsequence) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/mehdikhfifi/cpp/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Combinatorics
 |  |
 | ------- |
@@ -455,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/mehdikhfifi/cpp/tree/master/1590-make-sum-divisible-by-p) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/mehdikhfifi/cpp/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/mehdikhfifi/cpp/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/mehdikhfifi/cpp/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Stack
 |  |
 | ------- |
@@ -508,4 +512,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3623-count-number-of-trapezoids-i](https://github.com/mehdikhfifi/cpp/tree/master/3623-count-number-of-trapezoids-i) |
+## Queue
+|  |
+| ------- |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/mehdikhfifi/cpp/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/mehdikhfifi/cpp/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 <!---LeetCode Topics End-->
