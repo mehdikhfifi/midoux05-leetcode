@@ -11,8 +11,6 @@ class Solution:
             hashmap_x[x][1] = max(hashmap_x[x][1], y)
             hashmap_x[x][0] = min(hashmap_x[x][0], y)
         res = 0
-        print(hashmap_x)
-        print(hashmap_y)
         for x, y in buildings:
 
             if (hashmap_x[x][0] < y and hashmap_x[x][1] > y) and (
