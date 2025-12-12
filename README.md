@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/mehdikhfifi/cpp/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/mehdikhfifi/cpp/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/mehdikhfifi/cpp/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3433-count-mentions-per-user](https://github.com/mehdikhfifi/cpp/tree/master/3433-count-mentions-per-user) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mehdikhfifi/cpp/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/mehdikhfifi/cpp/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mehdikhfifi/cpp/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0553-optimal-division](https://github.com/mehdikhfifi/cpp/tree/master/0553-optimal-division) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/mehdikhfifi/cpp/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2288-count-operations-to-obtain-zero](https://github.com/mehdikhfifi/cpp/tree/master/2288-count-operations-to-obtain-zero) |
+| [3433-count-mentions-per-user](https://github.com/mehdikhfifi/cpp/tree/master/3433-count-mentions-per-user) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mehdikhfifi/cpp/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mehdikhfifi/cpp/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/mehdikhfifi/cpp/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/mehdikhfifi/cpp/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/mehdikhfifi/cpp/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/mehdikhfifi/cpp/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3433-count-mentions-per-user](https://github.com/mehdikhfifi/cpp/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/mehdikhfifi/cpp/tree/master/3531-count-covered-buildings) |
 ## Backtracking
 |  |
@@ -517,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/mehdikhfifi/cpp/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/mehdikhfifi/cpp/tree/master/2288-count-operations-to-obtain-zero) |
+| [3433-count-mentions-per-user](https://github.com/mehdikhfifi/cpp/tree/master/3433-count-mentions-per-user) |
 ## Geometry
 |  |
 | ------- |
