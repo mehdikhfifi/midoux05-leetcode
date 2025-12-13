@@ -1,38 +1,34 @@
-import heapq
-
 class Solution:
     def countMentions(self, numberOfUsers: int, events: List[List[str]]) -> List[int]:
-        events.sort(key=lambda x: (int(x[1]), x[0] == "MESSAGE"))
-
-        online = set(range(numberOfUsers))
-        heap = []  # (reactivate_time, user)
-        res = [0] * numberOfUsers
-
+        
+        events.sort(key =  lambda x: (int(x[1]), x[0] == "MESSAGE" ))
+        last_online = {}
+        for i in range(numberOfUsers):
+            last_online[i] = 0
+        res = [0 for _ in range(numberOfUsers)]
         for event in events:
             timestamp = int(event[1])
-
-            # Reactivate users
-            while heap and heap[0][0] <= timestamp:
-                _, user = heapq.heappop(heap)
-                online.add(user)
-
-            if event[0] == "OFFLINE":
-                user = int(event[2])
-                online.remove(user)
-                heapq.heappush(heap, (timestamp + 60, user))
-
-            else:  # MESSAGE
-                if event[2] == "ALL":
-                    for i in range(numberOfUsers):
-                        res[i] += 1
-
-                elif event[2] == "HERE":
-                    for user in online:
-                        res[user] += 1
-
+            if event[0] == 'MESSAGE':
+                if event[2] == 'HERE':
+                    for key in last_online.keys():
+                        print(last_online[key])
+                        if last_online[key] <= timestamp:
+                            res[key] +=1
+                elif event[2] == 'ALL':
+                    res = [res[i] +1 for i in range(len(res))]
                 else:
-                    for token in event[2].split():
-                        user = int(token[2:])
-                        res[user] += 1
+                    ids = [int(x[2:]) for x in event[2].split()]
 
+                    for user in ids:
+                        res[user] +=1
+            else:
+                user = int(event[2])
+                last_online[user] = timestamp + 60
+            
         return res
+
+
+
+
+
+        
