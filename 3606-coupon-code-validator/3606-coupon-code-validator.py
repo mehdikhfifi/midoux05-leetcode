@@ -10,7 +10,7 @@ class Solution:
         res = [
             (code[i], i)
             for i in range(len(code))
-            if isActive[i]  and businessLine[i] != "invalid"
+            if isActive[i] and code[i] != "" and businessLine[i] != "invalid"
         ]
         # print(res)
         res.sort(key=lambda x: (businessLine[x[1]], x[0]))
