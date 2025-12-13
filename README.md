@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/mehdikhfifi/cpp/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/mehdikhfifi/cpp/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3583-count-special-triplets](https://github.com/mehdikhfifi/cpp/tree/master/3583-count-special-triplets) |
+| [3606-coupon-code-validator](https://github.com/mehdikhfifi/cpp/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/mehdikhfifi/cpp/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/mehdikhfifi/cpp/tree/master/3623-count-number-of-trapezoids-i) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/mehdikhfifi/cpp/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/mehdikhfifi/cpp/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3531-count-covered-buildings](https://github.com/mehdikhfifi/cpp/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/mehdikhfifi/cpp/tree/master/3583-count-special-triplets) |
+| [3606-coupon-code-validator](https://github.com/mehdikhfifi/cpp/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/mehdikhfifi/cpp/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/mehdikhfifi/cpp/tree/master/3623-count-number-of-trapezoids-i) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/mehdikhfifi/cpp/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/mehdikhfifi/cpp/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/mehdikhfifi/cpp/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2444-longest-ideal-subsequence](https://github.com/mehdikhfifi/cpp/tree/master/2444-longest-ideal-subsequence) |
+| [3606-coupon-code-validator](https://github.com/mehdikhfifi/cpp/tree/master/3606-coupon-code-validator) |
 ## String Matching
 |  |
 | ------- |
@@ -388,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/mehdikhfifi/cpp/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3433-count-mentions-per-user](https://github.com/mehdikhfifi/cpp/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/mehdikhfifi/cpp/tree/master/3531-count-covered-buildings) |
+| [3606-coupon-code-validator](https://github.com/mehdikhfifi/cpp/tree/master/3606-coupon-code-validator) |
 ## Backtracking
 |  |
 | ------- |
