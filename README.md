@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-sliding-puzzle](https://github.com/mehdikhfifi/cpp/tree/master/0787-sliding-puzzle) |
 | [0853-most-profit-assigning-work](https://github.com/mehdikhfifi/cpp/tree/master/0853-most-profit-assigning-work) |
 | [0948-sort-an-array](https://github.com/mehdikhfifi/cpp/tree/master/0948-sort-an-array) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/mehdikhfifi/cpp/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/mehdikhfifi/cpp/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1025-minimum-cost-for-tickets](https://github.com/mehdikhfifi/cpp/tree/master/1025-minimum-cost-for-tickets) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/mehdikhfifi/cpp/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/mehdikhfifi/cpp/tree/master/0300-longest-increasing-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/mehdikhfifi/cpp/tree/master/0658-find-k-closest-elements) |
 | [0853-most-profit-assigning-work](https://github.com/mehdikhfifi/cpp/tree/master/0853-most-profit-assigning-work) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/mehdikhfifi/cpp/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1397-search-suggestions-system](https://github.com/mehdikhfifi/cpp/tree/master/1397-search-suggestions-system) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/mehdikhfifi/cpp/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/mehdikhfifi/cpp/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
