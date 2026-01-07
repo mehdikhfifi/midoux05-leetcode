@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/mehdikhfifi/cpp/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/mehdikhfifi/cpp/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1590-make-sum-divisible-by-p](https://github.com/mehdikhfifi/cpp/tree/master/1590-make-sum-divisible-by-p) |
+| [1695-maximum-erasure-value](https://github.com/mehdikhfifi/cpp/tree/master/1695-maximum-erasure-value) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/mehdikhfifi/cpp/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1755-defuse-the-bomb](https://github.com/mehdikhfifi/cpp/tree/master/1755-defuse-the-bomb) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/mehdikhfifi/cpp/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/mehdikhfifi/cpp/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/mehdikhfifi/cpp/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1590-make-sum-divisible-by-p](https://github.com/mehdikhfifi/cpp/tree/master/1590-make-sum-divisible-by-p) |
+| [1695-maximum-erasure-value](https://github.com/mehdikhfifi/cpp/tree/master/1695-maximum-erasure-value) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/mehdikhfifi/cpp/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/mehdikhfifi/cpp/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2444-longest-ideal-subsequence](https://github.com/mehdikhfifi/cpp/tree/master/2444-longest-ideal-subsequence) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/mehdikhfifi/cpp/tree/master/0424-longest-repeating-character-replacement) |
 | [0658-find-k-closest-elements](https://github.com/mehdikhfifi/cpp/tree/master/0658-find-k-closest-elements) |
 | [0904-fruit-into-baskets](https://github.com/mehdikhfifi/cpp/tree/master/0904-fruit-into-baskets) |
+| [1695-maximum-erasure-value](https://github.com/mehdikhfifi/cpp/tree/master/1695-maximum-erasure-value) |
 | [1755-defuse-the-bomb](https://github.com/mehdikhfifi/cpp/tree/master/1755-defuse-the-bomb) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mehdikhfifi/cpp/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/mehdikhfifi/cpp/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
