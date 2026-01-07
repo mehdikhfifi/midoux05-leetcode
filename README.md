@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0759-set-intersection-size-at-least-two](https://github.com/mehdikhfifi/cpp/tree/master/0759-set-intersection-size-at-least-two) |
 | [0787-sliding-puzzle](https://github.com/mehdikhfifi/cpp/tree/master/0787-sliding-puzzle) |
 | [0853-most-profit-assigning-work](https://github.com/mehdikhfifi/cpp/tree/master/0853-most-profit-assigning-work) |
+| [0904-fruit-into-baskets](https://github.com/mehdikhfifi/cpp/tree/master/0904-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/mehdikhfifi/cpp/tree/master/0948-sort-an-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/mehdikhfifi/cpp/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/mehdikhfifi/cpp/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/mehdikhfifi/cpp/tree/master/0424-longest-repeating-character-replacement) |
 | [0523-continuous-subarray-sum](https://github.com/mehdikhfifi/cpp/tree/master/0523-continuous-subarray-sum) |
 | [0740-delete-and-earn](https://github.com/mehdikhfifi/cpp/tree/master/0740-delete-and-earn) |
+| [0904-fruit-into-baskets](https://github.com/mehdikhfifi/cpp/tree/master/0904-fruit-into-baskets) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/mehdikhfifi/cpp/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/mehdikhfifi/cpp/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1590-make-sum-divisible-by-p](https://github.com/mehdikhfifi/cpp/tree/master/1590-make-sum-divisible-by-p) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/mehdikhfifi/cpp/tree/master/0413-arithmetic-slices) |
 | [0424-longest-repeating-character-replacement](https://github.com/mehdikhfifi/cpp/tree/master/0424-longest-repeating-character-replacement) |
 | [0658-find-k-closest-elements](https://github.com/mehdikhfifi/cpp/tree/master/0658-find-k-closest-elements) |
+| [0904-fruit-into-baskets](https://github.com/mehdikhfifi/cpp/tree/master/0904-fruit-into-baskets) |
 | [1755-defuse-the-bomb](https://github.com/mehdikhfifi/cpp/tree/master/1755-defuse-the-bomb) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mehdikhfifi/cpp/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/mehdikhfifi/cpp/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
