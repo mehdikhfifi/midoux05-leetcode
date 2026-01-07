@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/mehdikhfifi/cpp/tree/master/0133-clone-graph) |
 | [0146-lru-cache](https://github.com/mehdikhfifi/cpp/tree/master/0146-lru-cache) |
 | [0409-longest-palindrome](https://github.com/mehdikhfifi/cpp/tree/master/0409-longest-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/mehdikhfifi/cpp/tree/master/0424-longest-repeating-character-replacement) |
 | [0523-continuous-subarray-sum](https://github.com/mehdikhfifi/cpp/tree/master/0523-continuous-subarray-sum) |
 | [0740-delete-and-earn](https://github.com/mehdikhfifi/cpp/tree/master/0740-delete-and-earn) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/mehdikhfifi/cpp/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mehdikhfifi/cpp/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0413-arithmetic-slices](https://github.com/mehdikhfifi/cpp/tree/master/0413-arithmetic-slices) |
+| [0424-longest-repeating-character-replacement](https://github.com/mehdikhfifi/cpp/tree/master/0424-longest-repeating-character-replacement) |
 | [0658-find-k-closest-elements](https://github.com/mehdikhfifi/cpp/tree/master/0658-find-k-closest-elements) |
 | [1755-defuse-the-bomb](https://github.com/mehdikhfifi/cpp/tree/master/1755-defuse-the-bomb) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mehdikhfifi/cpp/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/mehdikhfifi/cpp/tree/master/0091-decode-ways) |
 | [0402-remove-k-digits](https://github.com/mehdikhfifi/cpp/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/mehdikhfifi/cpp/tree/master/0409-longest-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/mehdikhfifi/cpp/tree/master/0424-longest-repeating-character-replacement) |
 | [0474-ones-and-zeroes](https://github.com/mehdikhfifi/cpp/tree/master/0474-ones-and-zeroes) |
 | [0606-construct-string-from-binary-tree](https://github.com/mehdikhfifi/cpp/tree/master/0606-construct-string-from-binary-tree) |
 | [1397-search-suggestions-system](https://github.com/mehdikhfifi/cpp/tree/master/1397-search-suggestions-system) |
