@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/mehdikhfifi/cpp/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0133-clone-graph](https://github.com/mehdikhfifi/cpp/tree/master/0133-clone-graph) |
 | [0146-lru-cache](https://github.com/mehdikhfifi/cpp/tree/master/0146-lru-cache) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/mehdikhfifi/cpp/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0409-longest-palindrome](https://github.com/mehdikhfifi/cpp/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/mehdikhfifi/cpp/tree/master/0424-longest-repeating-character-replacement) |
 | [0523-continuous-subarray-sum](https://github.com/mehdikhfifi/cpp/tree/master/0523-continuous-subarray-sum) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mehdikhfifi/cpp/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/mehdikhfifi/cpp/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0413-arithmetic-slices](https://github.com/mehdikhfifi/cpp/tree/master/0413-arithmetic-slices) |
 | [0424-longest-repeating-character-replacement](https://github.com/mehdikhfifi/cpp/tree/master/0424-longest-repeating-character-replacement) |
 | [0658-find-k-closest-elements](https://github.com/mehdikhfifi/cpp/tree/master/0658-find-k-closest-elements) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mehdikhfifi/cpp/tree/master/0004-median-of-two-sorted-arrays) |
 | [0307-range-sum-query-mutable](https://github.com/mehdikhfifi/cpp/tree/master/0307-range-sum-query-mutable) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/mehdikhfifi/cpp/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0948-sort-an-array](https://github.com/mehdikhfifi/cpp/tree/master/0948-sort-an-array) |
 ## Eulerian Circuit
 |  |
@@ -383,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/mehdikhfifi/cpp/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/mehdikhfifi/cpp/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/mehdikhfifi/cpp/tree/master/0091-decode-ways) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/mehdikhfifi/cpp/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0402-remove-k-digits](https://github.com/mehdikhfifi/cpp/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/mehdikhfifi/cpp/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/mehdikhfifi/cpp/tree/master/0424-longest-repeating-character-replacement) |
