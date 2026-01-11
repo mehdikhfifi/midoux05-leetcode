@@ -1,39 +1,25 @@
-import itertools
-
 class Solution:
-    def splitArray(self, weights: List[int], days: int) -> int:
-        
+    def splitArray(self, nums: List[int], k: int) -> int:
+        left = max(nums)
+        right = sum(nums)
 
-        low = max(weights)
-        high = sum(weights)
-        while low < high:
-            mid = (low + high ) // 2
-            num_trips = 1
+        def condition(mid):
+            num_subarrays = 0
             temp = 0
-            for x in weights:
-                if temp + x <= mid: 
-                    temp +=x
-                else: 
-                    num_trips += 1
+            for x in nums:
+                if temp + x > mid:
+                    num_subarrays +=1
                     temp = x
-            if num_trips <= days:
-                high = mid 
+                else:
+                    temp += x
+            return num_subarrays
+        while left <= right:
+            mid = (left + right  ) // 2 
+            print(mid, condition(mid))
+            if condition(mid) >= k:
+                left = mid +1
             else:
-                low = mid +1
-        
-        return low 
-
+                right = mid -1
+        return left
 
             
-            
-            
-
-        
-
-        
-
-
-
-
-
-
