@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/mehdikhfifi/cpp/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/mehdikhfifi/cpp/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/mehdikhfifi/cpp/tree/master/0871-keys-and-rooms) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/mehdikhfifi/cpp/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/mehdikhfifi/cpp/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/mehdikhfifi/cpp/tree/master/1558-course-schedule-iv) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/mehdikhfifi/cpp/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0606-construct-string-from-binary-tree](https://github.com/mehdikhfifi/cpp/tree/master/0606-construct-string-from-binary-tree) |
 | [0655-print-binary-tree](https://github.com/mehdikhfifi/cpp/tree/master/0655-print-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/mehdikhfifi/cpp/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/mehdikhfifi/cpp/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/mehdikhfifi/cpp/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [2175-count-nodes-with-the-highest-score](https://github.com/mehdikhfifi/cpp/tree/master/2175-count-nodes-with-the-highest-score) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/mehdikhfifi/cpp/tree/master/2872-maximum-number-of-k-divisible-components) |
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0606-construct-string-from-binary-tree](https://github.com/mehdikhfifi/cpp/tree/master/0606-construct-string-from-binary-tree) |
 | [0655-print-binary-tree](https://github.com/mehdikhfifi/cpp/tree/master/0655-print-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/mehdikhfifi/cpp/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/mehdikhfifi/cpp/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/mehdikhfifi/cpp/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [2175-count-nodes-with-the-highest-score](https://github.com/mehdikhfifi/cpp/tree/master/2175-count-nodes-with-the-highest-score) |
 ## Bitmask
