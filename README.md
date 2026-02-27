@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mehdikhfifi/cpp/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/mehdikhfifi/cpp/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3623-count-number-of-trapezoids-i](https://github.com/mehdikhfifi/cpp/tree/master/3623-count-number-of-trapezoids-i) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/mehdikhfifi/cpp/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Recursion
 |  |
 | ------- |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/mehdikhfifi/cpp/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/mehdikhfifi/cpp/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/mehdikhfifi/cpp/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/mehdikhfifi/cpp/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2414-move-pieces-to-obtain-a-string](https://github.com/mehdikhfifi/cpp/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2444-longest-ideal-subsequence](https://github.com/mehdikhfifi/cpp/tree/master/2444-longest-ideal-subsequence) |
 | [3606-coupon-code-validator](https://github.com/mehdikhfifi/cpp/tree/master/3606-coupon-code-validator) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/mehdikhfifi/cpp/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## String Matching
 |  |
 | ------- |
@@ -584,4 +587,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/mehdikhfifi/cpp/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+## Union-Find
+|  |
+| ------- |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/mehdikhfifi/cpp/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+## Ordered Set
+|  |
+| ------- |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/mehdikhfifi/cpp/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 <!---LeetCode Topics End-->
