@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/mehdikhfifi/cpp/tree/master/0523-continuous-subarray-sum) |
 | [0553-optimal-division](https://github.com/mehdikhfifi/cpp/tree/master/0553-optimal-division) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/mehdikhfifi/cpp/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/mehdikhfifi/cpp/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2288-count-operations-to-obtain-zero](https://github.com/mehdikhfifi/cpp/tree/master/2288-count-operations-to-obtain-zero) |
 | [3433-count-mentions-per-user](https://github.com/mehdikhfifi/cpp/tree/master/3433-count-mentions-per-user) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mehdikhfifi/cpp/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/mehdikhfifi/cpp/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/mehdikhfifi/cpp/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/mehdikhfifi/cpp/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/mehdikhfifi/cpp/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/mehdikhfifi/cpp/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Union Find
 |  |
@@ -568,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/mehdikhfifi/cpp/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/mehdikhfifi/cpp/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/mehdikhfifi/cpp/tree/master/2288-count-operations-to-obtain-zero) |
 | [3433-count-mentions-per-user](https://github.com/mehdikhfifi/cpp/tree/master/3433-count-mentions-per-user) |
