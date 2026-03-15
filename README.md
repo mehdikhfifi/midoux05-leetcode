@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/mehdikhfifi/cpp/tree/master/0523-continuous-subarray-sum) |
 | [0553-optimal-division](https://github.com/mehdikhfifi/cpp/tree/master/0553-optimal-division) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/mehdikhfifi/cpp/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1622-fancy-sequence](https://github.com/mehdikhfifi/cpp/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/mehdikhfifi/cpp/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2288-count-operations-to-obtain-zero](https://github.com/mehdikhfifi/cpp/tree/master/2288-count-operations-to-obtain-zero) |
 | [3433-count-mentions-per-user](https://github.com/mehdikhfifi/cpp/tree/master/3433-count-mentions-per-user) |
@@ -539,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/mehdikhfifi/cpp/tree/master/0146-lru-cache) |
 | [0307-range-sum-query-mutable](https://github.com/mehdikhfifi/cpp/tree/master/0307-range-sum-query-mutable) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/mehdikhfifi/cpp/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1622-fancy-sequence](https://github.com/mehdikhfifi/cpp/tree/master/1622-fancy-sequence) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -563,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/mehdikhfifi/cpp/tree/master/0307-range-sum-query-mutable) |
+| [1622-fancy-sequence](https://github.com/mehdikhfifi/cpp/tree/master/1622-fancy-sequence) |
 ## Data Stream
 |  |
 | ------- |
