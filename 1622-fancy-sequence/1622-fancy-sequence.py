@@ -6,7 +6,8 @@ class Fancy:
         self.b = 0
         self.MOD = 10 ** 9 + 7
     def append(self, val: int) -> None:
-        self.list.append(((val - self.b+self.MOD)%self.MOD * pow(self.a, self.MOD-2,self.MOD)) % self.MOD)
+        val  = (val - self.b+self.MOD)%self.MOD 
+        self.list.append(val * pow(self.a, self.MOD-2,self.MOD)% self.MOD)
     def addAll(self, inc: int) -> None:
         self.b += inc % self.MOD
     def multAll(self, m: int) -> None:
